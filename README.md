@@ -1,16 +1,16 @@
 ## Hi there 👋
+# Hi there, I'm Hamed 👋
 
-<!--
-**Hamedarki/Hamedarki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Curiosity fuels my code 🌌🪐  
+Passionate about learning and open source.
 
-Here are some ideas to get you started:
+## About me
+- 💻 Interested in backend & web
+- 🌱 Always learning new things
+- 🤝 Open to collaboration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- Email: hamedarki@gmail.com
+
+## Stats
+![Hamedarki's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamedarki&show_icons=true)
