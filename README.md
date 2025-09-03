@@ -13,7 +13,11 @@ Passionate about learning and open source.
 - Email: hamedarki@gmail.com
 
 ## Languqge 
-https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![css]([https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white](https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white
+))
+![html5]([https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white
+))
 
 ## Stats
 ![Hamedarki's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamedarki&show_icons=true)
