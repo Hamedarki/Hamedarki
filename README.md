@@ -12,5 +12,10 @@ Passionate about learning and open source.
 ## Contact
 - Email: hamedarki@gmail.com
 
+## Languqge 
+https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white
+
 ## Stats
 ![Hamedarki's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamedarki&show_icons=true)
+
+
